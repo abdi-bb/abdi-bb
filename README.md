@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/images/logo.png" alt="Logo" width="100" height="100" style="border-radius: 50%;">
+  <img src="./assets/images/logo.png" alt="Logo" width="200" height="200" style="border-radius: 50%;">
 </p>
 
 <h1 align="center"><strong>Hi there, I'm Abdi! 👋</strong></h1>
