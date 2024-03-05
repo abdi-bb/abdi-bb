@@ -4,7 +4,7 @@ I'm a passionate full-stack developer with a strong focus on back-end developmen
 
 ## About Me
 
-  💻 [![Developer](https://img.shields.io/badge/-Developer-000000?style=flat-square&logo=code&logoColor=white)](https://example.com) Full-stack Developer (Backend Specialist)
+  💻 Full-stack Developer (Backend Specialist)[![Developer](https://img.shields.io/badge/-Developer-000000?style=flat-square&logo=code&logoColor=white)](https://example.com)
   
   [![Website](https://img.shields.io/badge/-Website-41B883?style=flat-square&logo=vue.js&logoColor=white)](https://abdi-berhe.onrende.com)
   
