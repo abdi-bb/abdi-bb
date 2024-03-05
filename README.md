@@ -6,9 +6,9 @@ I'm a passionate full-stack developer with a strong focus on back-end developmen
 
 - 💻 Full-stack Developer (Backend Specialist)
 - 🌐 [Website](https://abdi-berhe.onrende.com)
-- 📧 Email: abdiberhe@gmail.com
-- 🐦 Twitter: [@abdi_berhe](https://twitter.com/abdi_berhe)
-- 👔 LinkedIn: [abdi-berhe](https://linkedin.com/in/abdi-berhe)
+- 📧 Email: [abdiberhe@gmail.com](mailto:abdiberhe@gmail.com)
+- 🐦 Twitter: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/abdi_berhe)
+- 👔 LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdi-berhe)
 
 ## Technologies & Tools
 
@@ -22,11 +22,11 @@ I'm a passionate full-stack developer with a strong focus on back-end developmen
 
 ## GitHub Stats
 
+![GitHub Commits](https://img.shields.io/github/last-commit/abdi-bb/abdi-bb)
 ![GitHub Contributions](https://img.shields.io/github/contributions/abdi-bb/abdi-bb)
 ![GitHub Stars](https://img.shields.io/github/stars/abdi-bb/abdi-bb)
-![GitHub Commits](https://img.shields.io/github/last-commit/abdi-bb/abdi-bb)
 
-<--!## My GitHub Projects
+<!-- ## My GitHub Projects
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=abdi-bb&repo=project-1&show_owner=true)](https://github.com/abdi-bb/project-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=abdi-bb&repo=project-2&show_owner=true)](https://github.com/abdi-bb/project-2)-->
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=abdi-bb&repo=project-2&show_owner=true)](https://github.com/abdi-bb/project-2) -->
