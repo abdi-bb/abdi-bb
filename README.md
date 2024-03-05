@@ -4,11 +4,11 @@ I'm a passionate full-stack developer with a strong focus on back-end developmen
 
 ## About Me
 
-- 💻 Full-stack Developer (Backend Specialist)
-- 🌐 [Website](https://abdi-berhe.onrende.com)
-- 📧 Email: [abdiberhe@gmail.com](mailto:abdiberhe@gmail.com)
-- 🐦 Twitter: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/abdi_berhe)
-- 👔 LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdi-berhe)
+- 💻 Full-stack Developer (Backend Specialist) [![Developer](https://img.shields.io/badge/-Developer-000000?style=flat-square&logo=code&logoColor=white)](https://example.com)
+- 🌐 [Website](https://abdi-berhe.onrende.com) [![Website](https://img.shields.io/badge/-Website-41B883?style=flat-square&logo=vue.js&logoColor=white)](https://abdi-berhe.onrende.com)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdiberhe@gmail.com)
+- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/abdi_berhe)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdi-berhe)
 
 ## Technologies & Tools
 
@@ -22,7 +22,7 @@ I'm a passionate full-stack developer with a strong focus on back-end developmen
 
 ## GitHub Stats
 
-![GitHub Commits](https://img.shields.io/github/last-commit/abdi-bb/abdi-bb)
+![GitHub Commits](https://img.shields.io/github/last-commit/abdi-bb/abdi-bb?label=Commits%20Before%20Last%20Commit)
 ![GitHub Contributions](https://img.shields.io/github/contributions/abdi-bb/abdi-bb)
 ![GitHub Stars](https://img.shields.io/github/stars/abdi-bb/abdi-bb)
 
