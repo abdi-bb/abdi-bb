@@ -20,9 +20,9 @@ I'm a passionate full-stack developer with a strong focus on back-end developmen
 ## GitHub Stats
 
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/abdi-bb/abdi-bb?label=Last%20Commit)
-![GitHub Total Commits](https://img.shields.io/github/commit-activity/y/abdi-bb/abdi-bb?label=Total%20Commits)
+<!-- ![GitHub Total Commits](https://img.shields.io/github/commit-activity/y/abdi-bb/abdi-bb?label=Total%20Commits)
 ![GitHub Contributions](https://img.shields.io/github/contributions/abdi-bb/abdi-bb?style=flat-square&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/abdi-bb/abdi-bb?style=flat-square&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/abdi-bb/abdi-bb?style=flat-square&logo=github) -->
 
 <!-- GitHub Streak Stats -->
 <a href="https://git.io/streak-stats">
