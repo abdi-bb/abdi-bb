@@ -1,4 +1,4 @@
-# Hi there, I'm Abdi! 👋
+# <span style="background: url('./logo.png'); background-size: cover; padding: 20px;">Hi there, I'm Abdi! 👋</span>
 
 I'm a passionate full-stack developer with a strong focus on back-end development. Currently exploring the realms of Python, JavaScript, and Dart. I'm thrilled to transform ideas into functional and efficient software solutions.
 
