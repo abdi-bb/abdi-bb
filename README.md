@@ -2,7 +2,7 @@
   <img src="./assets/images/logo.png" alt="Logo" width="100" height="100" style="border-radius: 50%;">
 </p>
 
-# Hi there, I'm Abdi! 👋
+<h1 align="center"><strong>Hi there, I'm Abdi! 👋</strong></h1>
 
 I'm a passionate full-stack developer with a strong focus on back-end development. Currently exploring the realms of Python, JavaScript, and Dart. I'm thrilled to transform ideas into functional and efficient software solutions.
 
