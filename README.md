@@ -1,10 +1,6 @@
-![Background Image](./assets/images/logo.png)
+<img src="./assets/images/logo.png" alt="Logo" width="100" height="100">
 
-Hi there, I'm Abdi! 👋
-
-<div style="background: url('./assets/images/logo.png'); background-size: cover; background-repeat: no-repeat; height: 150px; padding: 20px; text-align: center;">
-  <h1>Hi there, I'm Abdi! 👋</h1>
-</div>
+# Hi there, I'm Abdi! 👋
 
 I'm a passionate full-stack developer with a strong focus on back-end development. Currently exploring the realms of Python, JavaScript, and Dart. I'm thrilled to transform ideas into functional and efficient software solutions.
 
