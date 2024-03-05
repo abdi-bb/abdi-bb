@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
   <img src="./assets/images/logo.png" alt="Logo" width="100" height="100" style="border-radius: 50%;">
-</div>
+</p>
 
 # Hi there, I'm Abdi! 👋
 
