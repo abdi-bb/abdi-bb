@@ -24,6 +24,11 @@ I'm a passionate full-stack developer with a strong focus on back-end developmen
 ![GitHub Contributions](https://img.shields.io/github/contributions/abdi-bb/abdi-bb?style=flat-square&logo=github)
 ![GitHub Stars](https://img.shields.io/github/stars/abdi-bb/abdi-bb?style=flat-square&logo=github)
 
+<!-- GitHub Streak Stats -->
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abdi-bb&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Abdi Berhe's GitHub Streak Stats" />
+</a>
+
 
 <!-- ## My GitHub Projects
 
