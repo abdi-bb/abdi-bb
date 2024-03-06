@@ -28,16 +28,19 @@
 
 ## GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&show_icons=true&locale=en&layout=compact" alt="abdi-bb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdi-bb&show_icons=true&locale=en" alt="abdi-bb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdi-bb&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="abdi-bb" /></p>
-
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/abdi-bb/abdi-bb?label=Last%20Commit)
-<!-- ![GitHub Total Commits](https://img.shields.io/github/commit-activity/y/abdi-bb/abdi-bb?label=Total%20Commits)
-![GitHub Contributions](https://img.shields.io/github/contributions/abdi-bb/abdi-bb?style=flat-square&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/abdi-bb/abdi-bb?style=flat-square&logo=github) -->
+
+<a href="https://git.io/streak-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="abdi-bb" />
+</a>
+
+<a href="https://git.io/streak-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdi-bb&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="abdi-bb" />
+</a>
+
+<a href="https://git.io/streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdi-bb&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="abdi-bb" />
+</a>
 
 <!-- GitHub Streak Stats -->
 <a href="https://git.io/streak-stats">
