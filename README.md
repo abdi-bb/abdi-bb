@@ -2,14 +2,15 @@
   <img src="./assets/images/logo.png" alt="Logo" width="100" height="100" style="border-radius: 50%;">
 </p>
 
+<img align="right" alt='Coding' width="190" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+
 <h1 align="center"><strong>Hi there, I'm Abdi! 👋</strong></h1>
 
 ## Full-stack | Back-end Dev | Night🌙 Ideas | Software Solutions
 
 <!--## About Me-->
 <img align="right" alt='Coding' width="190" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/200.webp?cid=ecf05e47h96oo2v1t578gjifa6hzp5ayz2cq61slz0owg0u7&ep=v1_gifs_search&rid=200.webp&ct=g">
-<img align="right" alt='Coding' width="190" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
 
 - 💻 [![Developer](https://img.shields.io/badge/-Developer-000000?style=flat-square&logo=code&logoColor=white)](https://example.com)
 
