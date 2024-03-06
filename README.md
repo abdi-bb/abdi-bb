@@ -26,24 +26,55 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-## GitHub Stats
+<!-- GitHub Stats Section -->
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
+
+  <!-- GitHub Last Commit -->
+  <div>
+    <img src="https://img.shields.io/github/last-commit/abdi-bb/abdi-bb?label=Last%20Commit">
+  </div>
+
+  <!-- Most Used Languages -->
+  <div style="margin-top: 20px;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&layout=compact&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe" alt="abdi-bb" />
+    </a>
+  </div>
+
+  <!-- GitHub Stats -->
+  <div style="margin-top: 20px;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=abdi-bb&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe" alt="abdi-bb" />
+    </a>
+  </div>
+
+  <!-- GitHub Streak Stats -->
+  <div style="margin-top: 20px;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=abdi-bb&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Abdi Berhe's GitHub Streak Stats" />
+    </a>
+  </div>
+
+</div>
+
+<!--## GitHub Stats
 
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/abdi-bb/abdi-bb?label=Last%20Commit)
 
-<!-- Most Used Languages -->
+<!-- Most Used Languages -
 <a href="https://git.io/streak-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&layout=compact&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe" alt="abdi-bb" />
 </a>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats 
 <a href="https://git.io/streak-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdi-bb&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe" alt="abdi-bb" />
 </a>
 
-<!-- GitHub Streak Stats -->
+ GitHub Streak Stats 
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abdi-bb&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Abdi Berhe's GitHub Streak Stats" />
-</a>
+</a>-->
 
 
 <!-- ## My GitHub Projects
