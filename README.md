@@ -2,9 +2,6 @@
   <img src="./assets/images/logo.png" alt="Logo" width="100" height="100" style="border-radius: 50%;">
 </p>
 
-<img align="right" alt='Coding' width="190" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-
 <h1 align="center"><strong>Hi there, I'm Abdi! 👋</strong></h1>
 
 ## Full-stack | Back-end Dev | Night🌙 Ideas | Software Solutions
