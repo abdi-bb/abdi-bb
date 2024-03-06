@@ -31,15 +31,11 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/abdi-bb/abdi-bb?label=Last%20Commit)
 
 <a href="https://git.io/streak-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="abdi-bb" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="abdi-bb" />
 </a>
 
 <a href="https://git.io/streak-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdi-bb&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="abdi-bb" />
-</a>
-
-<a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdi-bb&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="abdi-bb" />
 </a>
 
 <!-- GitHub Streak Stats -->
