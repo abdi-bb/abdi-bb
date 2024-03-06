@@ -31,19 +31,21 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/abdi-bb/abdi-bb?label=Last%20Commit)
 
 <!-- Most Used Languages -->
+<div style="width: 350px;">
 <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&layout=compact&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe&width=350" alt="abdi-bb" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&layout=compact&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe" alt="abdi-bb" />
 </a>
 
 <!-- GitHub Stats -->
 <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdi-bb&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe&width=350" alt="abdi-bb" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdi-bb&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe" alt="abdi-bb" />
 </a>
 
 <!-- GitHub Streak Stats -->
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abdi-bb&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Abdi Berhe's GitHub Streak Stats" />
 </a>
+</div>
 
 
 <!-- ## My GitHub Projects
