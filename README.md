@@ -4,7 +4,7 @@
 
 <h1 align="center"><strong>Hi there, I'm Abdi! 👋</strong></h1>
 
-## Full-stack | Back-end Dev. | Night 🌙 Ideas -> Software Solutions.
+## Full-stack | Back-end Dev. | Night🌙 Ideas -> Software Solutions.
 
 <!--## About Me-->
 <img align="right" alt='Coding' width="190" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/200.webp?cid=ecf05e47h96oo2v1t578gjifa6hzp5ayz2cq61slz0owg0u7&ep=v1_gifs_search&rid=200.webp&ct=g">
@@ -27,6 +27,12 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ## GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&show_icons=true&locale=en&layout=compact" alt="abdi-bb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdi-bb&show_icons=true&locale=en" alt="abdi-bb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdi-bb&" alt="abdi-bb" /></p>
 
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/abdi-bb/abdi-bb?label=Last%20Commit)
 <!-- ![GitHub Total Commits](https://img.shields.io/github/commit-activity/y/abdi-bb/abdi-bb?label=Total%20Commits)
