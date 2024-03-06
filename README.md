@@ -32,7 +32,7 @@
 
 <!-- Most Used Languages -->
 <a href="https://git.io/streak-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&layout=compact&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe" alt="abdi-bb" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&layout=compact&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe" alt="abdi-bb" />
 </a>
 
 <!-- GitHub Stats -->
