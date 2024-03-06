@@ -4,7 +4,7 @@
 
 <h1 align="center"><strong>Hi there, I'm Abdi! 👋</strong></h1>
 
-## Full-stack | Back-end Dev. | Night🌙 Ideas -> Software Solutions.
+## Full-stack | Back-end Dev | Night🌙 Ideas | Software Solutions
 
 <!--## About Me-->
 <img align="right" alt='Coding' width="190" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/200.webp?cid=ecf05e47h96oo2v1t578gjifa6hzp5ayz2cq61slz0owg0u7&ep=v1_gifs_search&rid=200.webp&ct=g">
@@ -32,12 +32,12 @@
 
 <!-- Most Used Languages -->
 <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&layout=compact&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe" alt="abdi-bb" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&layout=compact&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe&width=350" alt="abdi-bb" />
 </a>
 
 <!-- GitHub Stats -->
 <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdi-bb&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe" alt="abdi-bb" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdi-bb&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe&width=350" alt="abdi-bb" />
 </a>
 
 <!-- GitHub Streak Stats -->
