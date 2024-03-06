@@ -27,6 +27,8 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 <!-- GitHub Stats Section -->
+## GitHub Stats
+
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
 
   <!-- GitHub Last Commit -->
@@ -56,25 +58,6 @@
   </div>
 
 </div>
-
-<!--## GitHub Stats
-
-![GitHub Last Commit](https://img.shields.io/github/last-commit/abdi-bb/abdi-bb?label=Last%20Commit)
-
-<!-- Most Used Languages -
-<a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdi-bb&layout=compact&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe" alt="abdi-bb" />
-</a>
-
-<!-- GitHub Stats 
-<a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdi-bb&hide_border=true&bg_color=1d1f21&text_color=ffffff&title_color=20d6fe&icon_color=20d6fe" alt="abdi-bb" />
-</a>
-
- GitHub Streak Stats 
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abdi-bb&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Abdi Berhe's GitHub Streak Stats" />
-</a>-->
 
 
 <!-- ## My GitHub Projects
