@@ -4,7 +4,7 @@
 
 <h1 align="center"><strong>Hi there, I'm Abdi! 👋</strong></h1>
 
-## Full-stack | Back-end Dev | Night🌙 Ideas | Software Solutions
+## Full-stack | Back-end Dev | Night ✨ Ideas | Software Solutions
 
 <!--## About Me-->
 <img align="right" alt='Coding' width="200" height="250" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/200.webp?cid=ecf05e47h96oo2v1t578gjifa6hzp5ayz2cq61slz0owg0u7&ep=v1_gifs_search&rid=200.webp&ct=g">
