@@ -32,9 +32,9 @@
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
 
   <!-- GitHub Last Commit -->
-  <div>
+  <!--<div>
     <img src="https://img.shields.io/github/last-commit/abdi-bb/abdi-bb?label=Last%20Commit">
-  </div>
+  </div>-->
 
   <!-- Most Used Languages -->
   <div style="margin-top: 20px;">
