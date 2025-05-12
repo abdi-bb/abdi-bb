@@ -9,9 +9,9 @@
 <img align="right" alt='Coding' width="200" height="250" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/200.webp?cid=ecf05e47h96oo2v1t578gjifa6hzp5ayz2cq61slz0owg0u7&ep=v1_gifs_search&rid=200.webp&ct=g">
 <!--<img align="right" alt='Coding' width="200" height="250" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">-->
 
-- 💻 [![Developer](https://img.shields.io/badge/-Developer-000000?style=flat-square&logo=code&logoColor=white)](https://example.com)
+- 💻 [![Developer](https://img.shields.io/badge/-Developer-000000?style=flat-square&logo=code&logoColor=white)](https://xavad.com)
 
-- [![Website](https://img.shields.io/badge/-Website-41B883?style=flat-square&logo=vue.js&logoColor=white)](https://abdi-berhe.onrender.com)
+- [![Website](https://img.shields.io/badge/-Website-41B883?style=flat-square&logo=vue.js&logoColor=white)](https://xavad.com)
 
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdiberhe@gmail.com)
 
